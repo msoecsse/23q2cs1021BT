@@ -4,9 +4,11 @@ public class Driver {
 
     public static void main(String[] args) {
 
-        System.out.println('c');
+        System.out.println((int)'A');
 
-        System.out.println((char)('c'+1));
+        System.out.println((int)'Z');
+
+        //System.out.println((char)('c'+1));
 
     }
 
