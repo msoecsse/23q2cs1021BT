@@ -15,4 +15,21 @@ public class Person {
     public void display(){
         System.out.println("Name: " + this.name);
     }
+
+    @Override
+    public boolean equals(Object o){
+        if(o==null){
+            return false;
+        }
+        if(o == this){
+            return true;
+        }
+        if(!(o instanceof Person)){
+            return false;
+        }
+
+        return ((Person)o).getName().equals(this.getName());
+
+
+    }
 }

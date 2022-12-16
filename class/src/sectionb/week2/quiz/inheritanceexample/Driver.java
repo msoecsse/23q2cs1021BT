@@ -11,6 +11,8 @@ public class Driver {
         System.out.println(john.toString());
         tom.display();
 
+        System.out.println(null instanceof Employee);
+
     }
 
 }
