@@ -1,3 +1,10 @@
+# Office Hours
+* Monday: 7am-8am
+* Tuesday: 7am-8am, 2pm-4pm, and [11am-noon in Spitzer Commons]
+* Wednesday: 7am-8am
+* Thursday: 7am-8am, 2pm-4pm
+* Friday: 7am-8am, 10am-11am
+ 
 # Tentative Schedule
 ## Week 6
 * Lecture 1: Intro to exception handling
