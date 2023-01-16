@@ -6,16 +6,17 @@
 * Friday: 7am-8am, 10am-11am
  
 # Tentative Schedule
-## Week 6
+## Week 6 (different for section 061)
 * Lecture 1: Intro to exception handling
 * Lecture 2: More exception handling
-* Lecture 3: **Quiz 3** on FXML and Exceptions (different for section 061)
+* Lecture 3: Intro to file input/output (recorded video)
 * Lab 5 due **Tuesday, 1/17**
 * SLM 6 due **Saturday, 1/21**
 * Homework 6 due **Saturday, 1/21**
+* Thursday 2-3pm office hour cancelled - faculty candidate giving demo lecture in DH240, you're invited
 
 ## Week 7
-* Lecture 1: Intro to file input/output (different for section 061)
+* Lecture 1: **Quiz 3** on FXML and Exceptions
 * Lecture 2: More file I/O
 * Lecture 3: File I/O _in-class activity_
 * Lab 6 due **Tuesday, 1/24**
