@@ -1,5 +1,6 @@
 package sectionb.week6;
 
+import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
@@ -18,6 +19,10 @@ public class Driver {
                 System.out.print("To the nearest integer value... ");
             }
         } while(weight<0);
+    }
+
+    private static void newMethod() throws IOException {
+        throw new IOException("you need to check me");
     }
 
     public static void main2(String[] args) {
