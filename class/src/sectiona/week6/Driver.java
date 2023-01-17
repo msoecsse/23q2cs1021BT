@@ -5,7 +5,13 @@ import java.util.Scanner;
 
 public class Driver {
     public static void main(String[] args) {
+        try {
+            call1();
+        } catch (ArithmeticException e) {
+            System.out.println("You almost made it to the JVM");
+        }
         Scanner in = new Scanner(System.in);
+        in.nextInt();
         int weight = -1;
         do {
             try {
@@ -17,6 +23,31 @@ public class Driver {
                 System.out.print("To the nearest integer value... ");
             }
         } while(weight<0);
+    }
+
+    private static double call1() {
+        try {
+            call2();
+        } catch(NumberFormatException e) {
+            System.out.println("Gotcha NFE");
+        }
+        return 0;
+    }
+
+    private static double call2() {
+        try {
+            call3();
+        } catch(InputMismatchException e) {
+            System.out.println("Gotcha IME");
+        }
+        return 0;
+    }
+
+    private static double call3() {
+        if(3>Math.random()) {
+            throw new ArithmeticException("no very mathematical");
+        }
+        return 0;
     }
 
     public static void main2(String[] args) {
