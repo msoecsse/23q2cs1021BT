@@ -10,17 +10,17 @@
   stream with a `File` object
 * [x] Describe how low-level file I/O works (i.e., reading or writing of byte data, importance
   of the sequence of data)
-* [ ] Describe how high-level (`DataOutputStream` and `DataInputStream`) file I/O works
+* [x] Describe how high-level (`DataOutputStream` and `DataInputStream`) file I/O works
   (i.e., methods for reading and writing of primitive data types, association with low-level
   stream, the importance of the sequence of data)
 * [x] Explain why it is important to close a stream when file operations are complete
 * [x] Use the try-with-resources construct to ensure resources are closed appropriately
-* [ ] Explain what the `PrintWriter` class is used for
-* [ ] Read text data from a file using `Scanner` objects
+* [x] Explain what the `PrintWriter` class is used for
+* [x] Read text data from a file using `Scanner` objects
 * [x] Use the `Files` class to read/write text files
-* [ ] Explain the difference between binary and text files
-* [ ] Describe some of the important exceptions that the java file IO classes generate
-* [ ] Describe how buffered streams (`BufferedOutputStream` and `BufferedInputStream`) can improve
+* [x] Explain the difference between binary and text files
+* [x] Describe some of the important exceptions that the java file IO classes generate
+* [x] Describe how buffered streams (`BufferedOutputStream` and `BufferedInputStream`) can improve
   IO performance
 
 ## Input and Output (I/O) 021
@@ -28,17 +28,17 @@
   stream with a `File` object
 * [x] Describe how low-level file I/O works (i.e., reading or writing of byte data, importance
   of the sequence of data)
-* [ ] Describe how high-level (`DataOutputStream` and `DataInputStream`) file I/O works
+* [x] Describe how high-level (`DataOutputStream` and `DataInputStream`) file I/O works
   (i.e., methods for reading and writing of primitive data types, association with low-level
   stream, the importance of the sequence of data)
 * [x] Explain why it is important to close a stream when file operations are complete
 * [x] Use the try-with-resources construct to ensure resources are closed appropriately
-* [ ] Explain what the `PrintWriter` class is used for
-* [ ] Read text data from a file using `Scanner` objects
+* [x] Explain what the `PrintWriter` class is used for
+* [x] Read text data from a file using `Scanner` objects
 * [x] Use the `Files` class to read/write text files
-* [ ] Explain the difference between binary and text files
-* [ ] Describe some of the important exceptions that the java file IO classes generate
-* [ ] Describe how buffered streams (`BufferedOutputStream` and `BufferedInputStream`) can improve
+* [x] Explain the difference between binary and text files
+* [x] Describe some of the important exceptions that the java file IO classes generate
+* [x] Describe how buffered streams (`BufferedOutputStream` and `BufferedInputStream`) can improve
   IO performance
 
 ## Input and Output (I/O) 061
@@ -46,15 +46,22 @@
       stream with a `File` object
 * [x] Describe how low-level file I/O works (i.e., reading or writing of byte data, importance
       of the sequence of data)
-* [ ] Describe how high-level (`DataOutputStream` and `DataInputStream`) file I/O works
+* [x] Describe how high-level (`DataOutputStream` and `DataInputStream`) file I/O works
       (i.e., methods for reading and writing of primitive data types, association with low-level
       stream, the importance of the sequence of data)
 * [x] Explain why it is important to close a stream when file operations are complete
 * [x] Use the try-with-resources construct to ensure resources are closed appropriately
-* [ ] Explain what the `PrintWriter` class is used for
-* [ ] Read text data from a file using `Scanner` objects
+* [x] Explain what the `PrintWriter` class is used for
+* [x] Read text data from a file using `Scanner` objects
 * [x] Use the `Files` class to read/write text files
-* [ ] Explain the difference between binary and text files
-* [ ] Describe some of the important exceptions that the java file IO classes generate
-* [ ] Describe how buffered streams (`BufferedOutputStream` and `BufferedInputStream`) can improve
+* [x] Explain the difference between binary and text files
+* [x] Describe some of the important exceptions that the java file IO classes generate
+* [x] Describe how buffered streams (`BufferedOutputStream` and `BufferedInputStream`) can improve
       IO performance
+
+
+
+
+
+
+
