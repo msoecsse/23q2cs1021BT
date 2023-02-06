@@ -24,6 +24,7 @@
 
 ## Week 9
 * Lecture 1: Functional programming _in-class activity_
+    - Monday additional office hours: 10:30am-noon and 2pm-3pm should be available
 * Lecture 2: Secure software development
 * Lecture 3: **Quiz 5** on Functional programming and secure software development
 * Lab 8 due **Tuesday, 2/7**
