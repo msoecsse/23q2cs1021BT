@@ -26,12 +26,12 @@
 * Lecture 1: Functional programming _in-class activity_
     - Monday additional office hours: 10:30am-noon and 2pm-3pm should be available
 * Lecture 2: Secure software development
-* Lecture 3: **Quiz 5** on Functional programming and secure software development
+* Lecture 3: Buffered I/O Streams
 * Lab 8 due **Tuesday, 2/7**
 * SLM 9 due **Saturday, 2/11**
 
 ## Week 10
-* Lecture 1: Buffered I/O Streams
+* Lecture 1: **Quiz 5** on Functional programming and secure software development
 * Lecture 2: Review for Final
 * Lecture 3: Final Project Wrap-up
 * Lab 9 due **Tuesday, 2/14**
